@@ -56,7 +56,11 @@ The dataset is labeled as Public Domain on its source page.
 
 💡 Key Insights
 
-Key findings will be added after validating the results and reviewing the data.
+* Consistent Revenue Growth: Monthly sales showed a strong, steady upward trajectory from January through June, more than doubling over the 6-month period as business scaled.
+ * Balanced Store Performance: Revenue distribution across all three locations is remarkably even, with Lower Manhattan, Hell's Kitchen, and Astoria each contributing roughly one-third of the total revenue (~33% to 34% each).
+ * Morning Rush Hours: Customer transactions peak significantly during morning hours, hitting their highest volume at 10:00 AM, which highlights a strong morning commuter and breakfast rush.
+ * Stable Daily Traffic: Transaction volumes remain consistently high throughout the weekdays (especially strong on Mondays, Thursdays, and Fridays) before seeing a minor decrease on Saturdays.
+ * Top Revenue Drivers: *Barista Espresso*, *Brewed Chai tea*, and *Hot chocolate* lead the product rankings, while Coffee stands out as the dominant product category in total revenue generation.
 
 👨‍💻 Author
 
