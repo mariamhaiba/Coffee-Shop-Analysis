@@ -61,3 +61,5 @@ Key findings will be added after validating the results and reviewing the data.
 👨‍💻 Author
 
 Aspiring Data Analyst
+
+![Coffee Shop Sales Dashboard](Dashboard%20Image.jpg)
